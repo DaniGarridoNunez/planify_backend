@@ -83,7 +83,7 @@ To get started first you will need to install the following:
    npm install
    ```
 5. Enter your API keys in `.env` at /backend for example:
-   ```js
+   ```sh
    DATABASE_URL=mongodb+srv://root:<db_password>@cluster0.example.mongodb.net/planify_mern
    FRONTEND_URL=http://localhost:5173
    SMTP_HOST=sandbox.smtp.mailtrap.io
@@ -93,7 +93,7 @@ To get started first you will need to install the following:
    JWT_SECRET=palabrasupersecreta
    ```
 6. Enter your API keys in `.env.local` at /frontend:
-    ```js
+    ```sh
     VITE_API_URL=http://localhost:4000/api
     ```
 7. And then run in both /frontend and /backend:
