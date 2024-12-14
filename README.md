@@ -76,7 +76,7 @@ To get started first you will need to install the following:
 2. Get a free API Key at [MailTrap](https://mailtrap.io/es/)
 3. Clone the repo
    ```sh
-   git clone https://github.com/DaniGarridoNunez/planify_frontend.git
+   git clone https://github.com/DaniGarridoNunez/planify_backend.git
    ```
 4. Install NPM packages in both /frontend and /backend
    ```sh
