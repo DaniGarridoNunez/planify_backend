@@ -111,7 +111,7 @@ To get started first you will need to install the following:
   - [x] Spanish
   - [ ] English
 
-See the [open issues](https://github.com/DaniGarridoNunez/planify_frontend/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/DaniGarridoNunez/planify_backend/issues) for a full list of proposed features (and known issues).
 
 ## Contributing
 
